@@ -9,7 +9,7 @@ _It is not necessary to have changed anything to mark it done_
 - [ ] XML documentation
 - [ ] localisation for messages
 - [ ] seeders updated
-- [ ] remove console logs
+- [ ] remove development/debug logging
 - [ ] remove dead code
 - [ ] no warnings in touched files (boyscout rule)
 - [ ] acceptance criteria met for the story
