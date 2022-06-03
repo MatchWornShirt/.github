@@ -11,6 +11,7 @@ _It is not necessary to have changed anything to mark it done_
 - [ ] seeders updated
 - [ ] remove development/debug logging
 - [ ] remove dead code
+- [ ] no magic strings or numbers
 - [ ] no warnings in touched files (boyscout rule)
 - [ ] acceptance criteria met for the story
 
