@@ -11,8 +11,10 @@ _It is not necessary to have changed anything to mark it done_
 - [ ] seeders updated
 - [ ] remove development/debug logging
 - [ ] remove dead code
+- [ ] all touched files are `#nullable enable`'d 
 - [ ] no magic strings or numbers
 - [ ] no warnings in touched files (boyscout rule)
+- [ ] use of cancellation tokens has been properly considered
 - [ ] acceptance criteria met for the story
 
 **Demo Instructions**
