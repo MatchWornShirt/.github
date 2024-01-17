@@ -1,3 +1,7 @@
+Ticket: <ticket id>
+
+---
+
 **Changes list**
 
 - 
@@ -8,6 +12,11 @@
 
 **Additional context**
 
-
 ---
-ref: <ticket id>
+
+**Definition of Done - Shortlist**
+
+- [ ] PR checks pass
+- [ ] Works in supported browsers
+- [ ] No breaking (v2) API changes
+- [ ] Migrations ready to run
