@@ -1,4 +1,4 @@
-Ticket: <ticket id>
+references <ticket id>
 
 ---
 
